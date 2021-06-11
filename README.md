@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @emilyregolao
+- 👀 I’m interested in coding, plants and dogs 
+- 🌱 I’m currently learning javascript 
+- 📫 How to reach me: my instagram @emlyprg
