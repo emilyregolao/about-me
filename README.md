@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @emilyregolao
-- 👀 I’m interested in coding, plants and dogs 
-- 🌱 I’m currently learning javascript 
+- 👀 I'm a computer science student on Universidade Anhembi Morumbi and a full stack development student on Kenzie Academy Brasil
+- 🌱 I’m currently learning JavaScript, HTML and CSS
 - 📫 How to reach me: my instagram @emlyprg
