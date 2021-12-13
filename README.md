@@ -15,6 +15,7 @@ Sou desenvolvedora front-end certificada pela Kenzie Academy Brasil e atualmente
 
 ### Onde me encontrar
 
-<a href="https://www.linkedin.com/in/emilypregolao/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" width="40" height="40"/></a>
+<a href="https://www.linkedin.com/in/emilypregolao/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+</a>
    
 
