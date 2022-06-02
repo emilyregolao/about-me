@@ -1,6 +1,6 @@
 ## Welcome! 👋
 ### My name is Emily
-I am a full stack developer in training at Kenzie Academy Brazil and Computer Science student at Anhembi Morumbi University. I currently work with frontend in React at Inventa.
+I am a full stack developer certified by Kenzie Academy Brazil and Computer Science student at Anhembi Morumbi University. I currently work as a front-end software engineer at Inventa.
 
 ### I have experience with the following tools and technologies
 
