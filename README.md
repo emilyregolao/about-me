@@ -28,6 +28,8 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 
 ## Rapidfire  
 <table><tr><td valign="top" width="48%">
+  
+  
 
 🚀 I’m currently working on [Inventa](https://inventa.shop/) as a <b>Software Engineer</b>.  
   
@@ -74,11 +76,11 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="48%">
+<table><tr><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=emilyregolao&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="48%">
+</td><td valign="top" width="45%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emilyregolao&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
