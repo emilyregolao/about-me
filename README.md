@@ -43,7 +43,7 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 🎓 I'm currently in the last semester to get my bachelor's degree in Computer Sicence! (can't wait to graduate!!)
 
 
-🍃 In my free time I like cooking, reading, hang out with my dog, listen to music, and watch series (mostly Peaky Blinders)
+🍃 In my free time I like cooking, reading, hang out with my dog, listen to music, and watch series (mostly Peaky Blinders).
   
 </td><td valign="top" width="48%">
 
