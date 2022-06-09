@@ -40,8 +40,8 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 💙 I have a fullstack certificate by Kenzie Academy Brasil but I'm really passionate about frontend!  
 
   
-🌱 I'm vegan :)
-  
+🎓 I'm currently in the last semester to get my bachelors degree in Computer Sicence! (can't wait to graduate!!)
+
 
 
 </td><td valign="top" width="48%">
