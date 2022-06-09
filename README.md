@@ -21,10 +21,8 @@ Programming in general enchants me, both on the backend and on the frontend, bec
 My role as a frontend is to create things that are beautiful, organized, that have purpose, which is why I love what I do so much: because it has purpose. It was in programming that I felt what belonging is; technology is beautiful and wide and full of potential that we still have to explore, and I'm so grateful and proud to be a part of that process.
 
 To contact me, just send an email to <b>emregolao@gmail.com</b>.  
-  
 
 <br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="48%">
@@ -56,7 +54,6 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 
 <br/>  
 
-
 ## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="45" />  
@@ -79,7 +76,6 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 
 <br/>  
 
-
 ## Github Stats  
 <table><tr><td valign="top" width="40%">
 
@@ -93,6 +89,3 @@ To contact me, just send an email to <b>emregolao@gmail.com</b>.
 
 <br/>  
 
-  
-
-<br/>  
